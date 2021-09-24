@@ -16,5 +16,7 @@ yarn global add localqr
 localqr [local|ngrok] [port=3000] [resource]
 
 # Example: localqr ngrok 3000 /users/1234/posts
-# Or: localqr /here/there/everywhere (defaults)
+# Or: localqr (defaults to local ip, port=3000, root resource)
 ```
+
+The order of arguments doesn't matter -- `localqr /space/place 5050 ngrok` works just as well.
