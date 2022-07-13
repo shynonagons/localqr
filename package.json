@@ -1,6 +1,6 @@
 {
   "name": "localqr",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Local server QR codes for network or ngrok",
   "main": "index.js",
   "scripts": {
