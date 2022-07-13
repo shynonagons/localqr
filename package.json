@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
-    "ngrok": "^3.2.5",
+    "ngrok": "^4.3.1",
     "qrcode-terminal": "^0.12.0",
     "yargs": "^17.2.0"
   },
