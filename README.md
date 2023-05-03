@@ -13,7 +13,7 @@ npx localqr [local|ngrok] [port=3000] [resource]
 # Or: localqr (defaults to local ip, port=3000, root resource)
 ```
 
-The order of arguments doesn't matter -- `localqr /space/place 5050 ngrok` works just as well.
+The order of arguments doesn't matter -- `npx localqr /space/place 5050 ngrok` works just as well.
 
 If you're not an `npx` fan, you can also install it globally:
 
